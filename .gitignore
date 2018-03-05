@@ -10,6 +10,7 @@
 /build
 
 # misc
+/src/store/actions/auth.js
 /config
 /scripts
 .DS_Store
